@@ -1,6 +1,7 @@
 # <a name="title">Taichi Voxel Challenge</a>
 
 <p align="center">
+## My artwork
 <img src="five balls.jpg" width="75%"></img>
 </p>
 
