@@ -1,7 +1,7 @@
 # <a name="title">Taichi Voxel Challenge</a>
 
 <p align="center">
-<img src="five balls.jpg" width="75%"></img>
+<img src="five spheres.jpg" width="75%"></img>
 </p>
 
 
